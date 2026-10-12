@@ -1,3 +1,4 @@
 
 # Liamwyy
-<img width="146" height="200" alt="dark-souls-bonfire" src="https://github.com/user-attachments/assets/1b50952e-1790-47f9-9011-a6a467273837" />
+<img width="146" height="200" alt="dark-souls-bonfire-ezgif com-remove-background" src="https://github.com/user-attachments/assets/9be238dd-1106-4391-8e25-bc5817c82996" />
+
