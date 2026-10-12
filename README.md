@@ -1,5 +1,6 @@
 
 # Liamwyy
-<img width="146" height="200" alt="dark-souls-bonfire-ezgif com-remove-background(1)" src="https://github.com/user-attachments/assets/85d115b5-5b08-4631-bea5-ecd74a5b7f9e" />
+<img width="220" height="123" alt="resident-evil4-leon" src="https://github.com/user-attachments/assets/fa9e334e-6a47-4c15-b11c-ca1228bd5c21" />
+
 
 
