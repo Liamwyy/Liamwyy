@@ -11,12 +11,14 @@
 
 <br clear="right" />
 
-<img width="1000" height="83" alt="Screenshot_2026-10-15_015745-removebg-preview" src="https://github.com/user-attachments/assets/97f8baea-6645-4d01-9f96-043b1af78917" />
 
+<img width="1000" height="83" alt="Screenshot_2026-10-15_015745-removebg-preview" src="https://github.com/user-attachments/assets/d4ecc23d-785e-4d07-b25b-0d7c533958f9" />
 
 <img width="900" height="270" alt="tumblr_4d65d44c2b406f80f1a70664161d3495_2f468fde_640-ezgif com-resize" src="https://github.com/user-attachments/assets/a956c56e-3be8-467b-a669-c8fc10103cb8" />
 
-<img width="1000" height="83" alt="Screenshot_2026-10-15_015745-removebg-preview" src="https://github.com/user-attachments/assets/97f8baea-6645-4d01-9f96-043b1af78917" />
+
+<img width="1000" height="83" alt="Screenshot_2026-10-15_015745-removebg-preview" src="https://github.com/user-attachments/assets/dce4bc6c-cbc4-43bc-b2ac-2752ef096846" />
+
 
 
 <p align="center">
