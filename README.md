@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,c,py,html,css,blender&theme=dark" />
 </p>
 <img width="900" height="270" alt="tumblr_4d65d44c2b406f80f1a70664161d3495_2f468fde_640-ezgif com-resize" src="https://github.com/user-attachments/assets/a956c56e-3be8-467b-a669-c8fc10103cb8" />
-<img src="profile-3d-contrib/profile-night-view.svg" width="900" height="200" alt="3D contribution calendar" />
+
 
 
 <img src="assets/9j6Rq01.svg" width="100%" height="50" alt="" />
