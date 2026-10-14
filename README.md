@@ -5,7 +5,7 @@
 > Liam
 > B.E Comp Eng
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,C,Python,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,c,py,html,css,blender&theme=dark" />
 
 [Portfolio](https://portfoliowyy.netlify.app/)
 
