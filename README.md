@@ -3,11 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Doto&size=45&pause=1000&color=74F7DE&vCenter=true&width=435&height=70&lines=Liamwyy" alt="Liamwyy" />
 
 
-```text
+
   >B.E Comp Eng Graduate
   >SWE Intern @ Mohara
   >BKK,TH
-```
 
 [Portfolio](https://portfoliowyy.netlify.app/)
 
