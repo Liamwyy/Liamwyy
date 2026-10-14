@@ -1,11 +1,7 @@
 
 
 
-<p align="left">
-  <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" alt="Thumb" />
-</p>
 
-The full README then looks like this:
 
 
 <p align="left">
