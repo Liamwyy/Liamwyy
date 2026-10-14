@@ -1,6 +1,7 @@
 
 
-<img width="900" height="220" alt="tumblr_m0s2wm4vvI1qmpg90o1_500" src="https://github.com/user-attachments/assets/871e6835-705a-49ca-a325-7653047a9687" />
+<img width="1920" height="1080" alt="FOcCnwtWQAUrHRL" src="https://github.com/user-attachments/assets/9e720580-3b01-42bc-b28c-1e12846fbc19" />
+
 
 
 
