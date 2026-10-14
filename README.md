@@ -7,19 +7,6 @@
 
 The full README then looks like this:
 
-<table>
-  <tr>
-    <td valign="top">
-      <img width="300" height="800" alt="wp14761119" src="https://github.com/user-attachments/assets/9d307268-e5ae-427e-bad9-8ddb7da8f26a" />
-    </td>
-    <td valign="top">
-
-### Liam
-
-
-    </td>
-  </tr>
-</table>
 
 <p align="left">
   <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" alt="Thumb" />
