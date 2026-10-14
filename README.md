@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Doto&size=20&duration=1&pause=0&repeat=false&multiline=true&color=74F7DE&width=500&height=100&lines=%3E+CLASS:+B.E.+Computer+Engineering;%3E+BASE:+City,+Country;%3E+MISSION:+Building+web+apps+and+games" alt="B.E. Computer Engineering. Based in City, Country. Building web apps and games." />
   
-[Portfolio](https://portfoliowyy.netlify.app/)
+
 
 <br clear="right" />
 
