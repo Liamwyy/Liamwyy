@@ -1,6 +1,6 @@
 <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" align="right" alt="Ship" />
 
-### Liam
+<img src="https://readme-typing-svg.demolab.com?font=Nabla&size=45&pause=1000&center=true&vCenter=true&width=435&height=70&lines=Liamwyy" alt="Liamwyy" />
 
 >Liam
 >B.E Comp Eng
