@@ -15,6 +15,10 @@
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,c,py,html,css,blender&theme=dark" />
 </p>
 <img width="900" height="270" alt="tumblr_4d65d44c2b406f80f1a70664161d3495_2f468fde_640-ezgif com-resize" src="https://github.com/user-attachments/assets/a956c56e-3be8-467b-a669-c8fc10103cb8" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Liamwyy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=74F7DE&icon_color=74F7DE&text_color=c9d1d9" width="440" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liamwyy&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=74F7DE&text_color=c9d1d9" width="440" alt="Most used languages" />
+</p>
 
 
 
