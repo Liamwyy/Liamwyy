@@ -1,6 +1,30 @@
 
 
 
+<p align="left">
+  <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" alt="Thumb" />
+</p>
+
+The full README then looks like this:
+
+<table>
+  <tr>
+    <td valign="top">
+      <img width="300" height="800" alt="wp14761119" src="https://github.com/user-attachments/assets/9d307268-e5ae-427e-bad9-8ddb7da8f26a" />
+    </td>
+    <td valign="top">
+
+### Liam
+
+
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" alt="Thumb" />
+</p>
+
 <img width="900" height="270" alt="tumblr_4d65d44c2b406f80f1a70664161d3495_2f468fde_640-ezgif com-resize" src="https://github.com/user-attachments/assets/a956c56e-3be8-467b-a669-c8fc10103cb8" />
 
-<img src="assets/mech.gif" width="150" height="150" alt="Pixel art mech" />
+<img src="assets/mech.gif" width="250" height="250" alt="Pixel art mech" />
