@@ -5,26 +5,8 @@
     </td>
     <td valign="top">
 
-### Hi, I'm Liam 👋
+### Liam 
 
-A one-line intro about who you are and what you build.
-
-[Link one](https://github.com/Liamwyy) ›› [Link two](https://github.com/Liamwyy) ›› [Link three](https://github.com/Liamwyy)
-
-#### 🔭 Currently working on
-- **Project name:** a short description of the project
-- **Learning:** a topic or tool you are studying now
-
-#### 🛠️ Tools I use
-- **Languages:** Python, TypeScript, ...
-- **Frameworks:** React, Unity, ...
-- **Databases:** PostgreSQL, ...
-- **Other:** Docker, Blender, ...
-
-#### 🎮 Off the keyboard
-- **Games:** a game you play
-- **Hobbies:** something you enjoy
-- **Fun fact:** an interesting bit about you
 
     </td>
   </tr>
