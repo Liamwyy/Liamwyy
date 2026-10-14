@@ -1,5 +1,6 @@
 
-<img width="1000" height="274" alt="sh2-silent-hill-2" src="https://github.com/user-attachments/assets/e1377b62-fcee-402a-8ade-b563f2ae15f6" />
+<img width="250" height="250" alt="D1lJYHV" src="https://github.com/user-attachments/assets/77f39305-b193-4df5-a493-e82e3149359d" />
+
 
 
 
