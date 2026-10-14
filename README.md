@@ -4,7 +4,7 @@
 
 
 
-<p align="left">
+<p align="right">
   <img src="assets/thumb-1920-83127-removebg-preview.png" width="300" alt="Thumb" />
 </p>
 
