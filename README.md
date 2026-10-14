@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Doto&size=20&duration=1&pause=0&repeat=false&multiline=true&color=74F7DE&width=500&height=100&lines=%3E++B.E.+Computer+Engineering;%3E+BKK,+TH;%3E+SWE+Intern+@+Mohara:+Building+web+apps+and+games" alt="B.E. Computer Engineering. Based in City, Country. Building web apps and games." />
+<img src="https://readme-typing-svg.demolab.com?font=Doto&size=20&duration=1&pause=0&repeat=false&multiline=true&color=74F7DE&width=500&height=100&lines=%3E++B.E.+Computer+Engineering;%3E+BKK,+TH;%3E+SWE+Intern+@+Mohara" alt="B.E. Computer Engineering. Based in City, Country. Building web apps and games." />
   
 
 
